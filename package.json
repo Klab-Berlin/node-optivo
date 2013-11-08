@@ -1,0 +1,9 @@
+{
+  "name": "optivo",
+  "description": "API-Call Wrapper",
+  "version": "0.1.0",
+  "author": "Paul Nordmann",
+  "dependencies": {},
+  "devDependencies": {},
+  "engine": "node = 0.10.13"
+}
