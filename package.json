@@ -1,8 +1,12 @@
 {
   "name": "optivo",
-  "description": "API-Call Wrapper",
+  "description": "API-Call Wrapper for Optivo E-Mail-Marketing",
   "version": "0.1.0",
   "author": "Paul Nordmann",
+  "repository" :    { 
+    "type" :  "git", 
+    "url" :   "https://github.com/Klab-Berlin/node-optivo.git" 
+  },
   "dependencies": {},
   "devDependencies": {},
   "engine": "node = 0.10.13"
