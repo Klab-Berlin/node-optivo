@@ -4,12 +4,6 @@
 
 API-Call Wrapper for Optivo E-Mail-Marketing
 
-#optivo
-
-###description
-
-API-Call Wrapper for Optivo E-Mail-Marketing
-
 ##init
 
 ```javascript
