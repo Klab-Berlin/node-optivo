@@ -1,7 +1,7 @@
 {
   "name": "optivo",
   "description": "API-Call Wrapper for Optivo E-Mail-Marketing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Paul Nordmann",
   "repository" :    { 
     "type" :  "git", 
