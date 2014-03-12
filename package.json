@@ -7,7 +7,5 @@
     "type" :  "git", 
     "url" :   "https://github.com/Klab-Berlin/node-optivo.git" 
   },
-  "dependencies": {},
-  "devDependencies": {},
   "engine": "node = 0.10.13"
 }
